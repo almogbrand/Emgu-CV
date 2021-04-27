@@ -1,6 +1,6 @@
 # Emgu-CV
 
-A windows forms app that allows user to apply Emgu filters on uploaded image. 
+A windows forms app that allows users to apply Emgu filters on uploaded image.
 (Emgu CV is a cross platform .Net wrapper to the OpenCV image processing library)
 
 List on the left shows all available methods to apply on the image.
