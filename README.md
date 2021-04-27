@@ -10,7 +10,7 @@ A windows forms app that allows users to apply Emgu filters on uploaded image.
 
 ![example](https://user-images.githubusercontent.com/54279376/116318378-5adca800-a7bd-11eb-94c4-90a55468ff3b.jpg)
 
-# yet to come 
-study canny \ soble \ threshold and others in order to detect shapes in an image. 
-# later on 
-develop algorithms for detection of a rotated \ scaled shape.
+# Yet to come 
+Study canny \ soble \ threshold and others in order to detect shapes in an image. 
+# Later on 
+Develop algorithms for detection of a rotated \ scaled shape.
